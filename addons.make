@@ -1,0 +1,7 @@
+ofxIO
+ofxNetwork
+ofxOMXPlayer
+ofxOsc
+ofxThreadedImageLoader
+ofxVectorGraphics
+ofxXmlSettings
